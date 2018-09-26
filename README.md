@@ -1,3 +1,5 @@
+> Currently spout not support write formula function to xls file, so i do folk and update some code for support write formula code, tag ```dev-master / 2.8.x-dev```
+
 # Spout
 
 [![Latest Stable Version](https://poser.pugx.org/box/spout/v/stable)](https://packagist.org/packages/box/spout)
